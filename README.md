@@ -1,2 +1,2 @@
 ## 大模型之零基础手把手LangGraph系列教程
-1. 大模型之零基础手把手LangGraph教程（一）：什么是LangGraph？与LangChain的区别？[[代码](LangGraph_Tutorial_lesson_1.ipynb)][教程]
+1. 零基础手把手大模型开发之LangGraph教程（一）：什么是LangGraph？与LangChain的区别？[[代码](LangGraph_Tutorial_lesson_1.ipynb)][[教程](https://blog.csdn.net/weixin_41496173/article/details/139023846?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22139023846%22%2C%22source%22%3A%22weixin_41496173%22%7D)]
